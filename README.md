@@ -29,6 +29,7 @@ That means (dp[1]+dp[1]+dp[1]) case is smaller or same with (dp[2]+dp[1]) case.
 So, there is two option for taking 3 cards.
 
 3 option for taking 4 cards. (dp[1] + dp[3]) (dp[2] + dp[2]) (p[4])
+
 3 option for taking 5 cards. (dp[1] + dp[4]) (dp[2] + dp[3]) (p[5])
 
 .
